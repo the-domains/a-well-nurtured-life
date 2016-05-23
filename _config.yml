@@ -1,0 +1,28 @@
+name: A Well Nurtured Life
+favicon: null
+layout_spectrum: 0.32537838257849216
+typography_spectrum: 0.3405856997705996
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.6778984360862523
+  lightness: 0.39563926705159247
+  saturation: 0.39328860817477107
+  rhythmicContrast: 0.9477730649523437
+purpose: []
