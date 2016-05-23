@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'As the season begins to change, many people in my circle are reporting that they are feeling unwell. Airborne particles such as mold from rotting leaves can really tax the immune system. Then there are things the body must contend with, such as viruses, bacteria and other pathogens that seem to be more prevalent this time of year.'
-datePublished: '2016-05-23T05:10:33.053Z'
-dateModified: '2016-05-23T05:09:51.538Z'
-title: Oil Pulling – What is it and why should you care?
+datePublished: '2016-05-23T05:16:25.803Z'
+dateModified: '2016-05-23T05:13:42.006Z'
+title: ' '
 author: []
+sourcePath: _posts/2016-05-23-oil-pulling-what-is-it-and-why-should-you-care.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-05-23-oil-pulling-what-is-it-and-why-should-you-care.md
 url: oil-pulling-what-is-it-and-why-should-you-care/index.html
 _type: Article
 
 ---
-## [Oil Pulling -- What is it and why should you care?][0]
+## 
 
 As the season begins to change, many people in my circle are reporting that they are feeling unwell. Airborne particles such as mold from rotting leaves can really tax the immune system. Then there are things the body must contend with, such as viruses, bacteria and other pathogens that seem to be more prevalent this time of year.
 
@@ -39,5 +39,3 @@ When you eliminate unwanted bacteria in your mouth, it takes a burden off of you
 If you haven't yet made oil pulling part of your daily routine, you would be well-served to give it a try. It has made a huge difference in my life and in the lives of others who practice it.
 
 Be well!
-
-[0]: http://www.consciouslyraw.com/archives/1941 "Oil Pulling – What is it and why should you care?"
