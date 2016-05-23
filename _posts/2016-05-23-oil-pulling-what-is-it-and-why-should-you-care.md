@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'Oil Pulling - What, Why, How'
-datePublished: '2016-05-23T05:25:15.286Z'
-dateModified: '2016-05-23T05:25:10.142Z'
+description: 'Oil Pulling - What, Why, How: As the season begins to change, many people in my circle are reporting that they are feeling unwell. Airborne particles such as mold from rotting leaves can really tax the immune system. Then there are things the body must contend with, such as viruses, bacteria and other pathogens that seem to be more prevalent this time of year.'
+datePublished: '2016-05-23T06:00:25.935Z'
+dateModified: '2016-05-23T06:00:18.350Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-23-oil-pulling-what-is-it-and-why-should-you-care.md
@@ -17,9 +17,7 @@ url: oil-pulling-what-is-it-and-why-should-you-care/index.html
 _type: Article
 
 ---
-Oil Pulling - What, Why, How
-
-As the season begins to change, many people in my circle are reporting that they are feeling unwell. Airborne particles such as mold from rotting leaves can really tax the immune system. Then there are things the body must contend with, such as viruses, bacteria and other pathogens that seem to be more prevalent this time of year.
+Oil Pulling - What, Why, How: As the season begins to change, many people in my circle are reporting that they are feeling unwell. Airborne particles such as mold from rotting leaves can really tax the immune system. Then there are things the body must contend with, such as viruses, bacteria and other pathogens that seem to be more prevalent this time of year.
 
 What if I told you that you could help to support your body's natural ability to defend itself against this onslaught of foreign invaders by putting a tablespoon of oil in your mouth and swishing it around? Could it really be that simple? Yes, it can. Here's the what, why, and how of using "oil pulling" as part of your daily regimen.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ab011dd6-c388-4bdc-9a8d-7a20774272f4.jpg)
