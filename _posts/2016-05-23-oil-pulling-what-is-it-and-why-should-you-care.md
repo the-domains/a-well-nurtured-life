@@ -4,10 +4,10 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'As the season begins to change, many people in my circle are reporting that they are feeling unwell. Airborne particles such as mold from rotting leaves can really tax the immune system. Then there are things the body must contend with, such as viruses, bacteria and other pathogens that seem to be more prevalent this time of year.'
-datePublished: '2016-05-23T05:16:25.803Z'
-dateModified: '2016-05-23T05:13:42.006Z'
-title: ' '
+description: 'Oil Pulling - What, Why, How'
+datePublished: '2016-05-23T05:25:15.286Z'
+dateModified: '2016-05-23T05:25:10.142Z'
+title: ''
 author: []
 sourcePath: _posts/2016-05-23-oil-pulling-what-is-it-and-why-should-you-care.md
 authors: []
@@ -17,7 +17,7 @@ url: oil-pulling-what-is-it-and-why-should-you-care/index.html
 _type: Article
 
 ---
-## 
+Oil Pulling - What, Why, How
 
 As the season begins to change, many people in my circle are reporting that they are feeling unwell. Airborne particles such as mold from rotting leaves can really tax the immune system. Then there are things the body must contend with, such as viruses, bacteria and other pathogens that seem to be more prevalent this time of year.
 
